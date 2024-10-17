@@ -1,10 +1,10 @@
-THiS Repo is help people who were staring in cyber security.
+This Repo is helping people who are starting in cyber security.
 
-Who wants to collabrate with me You acn also add your lraning meterials over here
+Who wants to collaborate with me You can also add your learning materials over here
 
-To contribute this Repo start Fork the repo:
+To contribute to this Repo start Fork the repo:
 
-create a branch with your meterials:
+create a branch with your materials:
 
 make the changes.
 
